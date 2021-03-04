@@ -1,0 +1,4 @@
+{
+	"mongopath" : "mongodb://ushurUser:ushur@localhost:27017",
+	"port" : 3001
+}
